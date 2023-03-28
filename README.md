@@ -2,7 +2,7 @@
 
 - 📚 I’m currently studying Computational Biology
 - 🏫 I’m an Computer Science and Bioscience sophomore at IIIT Delhi
-- 🤔 Currently Exploring DBMS, Deep Learning and Algorithm Design.
+- 🤔 Currently Exploring DBMS, and Algorithm Design.
 
 ---
 ### 🧰 Toolbox
