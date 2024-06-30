@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Shriya Verma!
 
 - 📚 I’m currently studying Computational Biology
-- 🏫 I’m an Computer Science and Bioscience senior at IIIT Delhi
+- 🏫 I’m a Computer Science and Biosciences senior at IIIT Delhi
 - 🤔 Currently Exploring ML & Full Stack Development
 
 ---
